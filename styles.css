@@ -1,0 +1,163 @@
+a{
+  color: #11999E;
+  font-family: 'Montserrat',sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color:#EAF6F6;
+}
+
+body{
+  /* margin-top:0px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px; */
+  margin:0px;
+  text-align: center;
+  font-family: Merriweather;
+  color: #40514E;
+}
+
+div{
+   /* background-color: #E4F9F5; */
+  /* margin: 0; */
+}
+h1{
+  /* margin: 0 auto; */
+  /* width: 10%; */
+  margin-top: 50px auto 0px auto;
+  font-family: 'Sacramento',cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  /* line-height: 2; */
+
+}
+h2{
+  font-family: Montserrat;
+  font-size: 2.5rem;
+   color: #66BFBF;
+   weight:normal;
+   padding-bottom: 10px;
+}
+h3{
+  font-family: Montserrat;
+  color: #11999E;
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+
+}
+p{
+    line-height: 2;
+}
+
+/********/
+.Travel-img{
+  width: 25%;
+  float: right;
+  padding-left: 30px;
+
+}
+.profile-img{
+  width: 300px;
+  height: 300px;
+}
+.skills-gif{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.top-container{
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.middle-container{
+
+  margin: 100px auto;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.skill-row1{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.skill-row2{
+  width:50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.profile-des{
+  /* text-align: center; */
+  width: 40%;
+  margin: auto;
+}
+.skill-description{
+
+}
+.travel-description{
+
+}
+.contact-me{
+  /* background-color: #66BFBF; */
+  margin: 30px;
+  line-height: 2;
+}
+
+.copy-right{
+  color:#EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0px;
+}
+.contact-msg{
+  margin:40px auto 60px;
+  width: 40%;
+}
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat',sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cbb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
